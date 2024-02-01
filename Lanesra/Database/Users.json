@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Sayidahror",
+    "LastName": "Mirzaakhmedov",
+    "Email": "saidahror2310@gmail.com",
+    "Password": "2310",
+    "Balance": 14000.0,
+    "CreatedAt": "2024-01-28T08:49:07.2679635Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "UsedMetroHistory": null
+  }
+]

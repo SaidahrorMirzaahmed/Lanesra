@@ -1,0 +1,254 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Buyuk Ipak Yoli",
+    "YearBuilt": 1977,
+    "OrdinalNumberInItsLine": 1,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 2,
+    "Name": "Pushkin",
+    "YearBuilt": 1984,
+    "OrdinalNumberInItsLine": 2,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 3,
+    "Name": "Hamid Olimjon",
+    "YearBuilt": 1990,
+    "OrdinalNumberInItsLine": 3,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 4,
+    "Name": "Amir Temur Xiyoboni",
+    "YearBuilt": 1986,
+    "OrdinalNumberInItsLine": 4,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 5,
+    "Name": "Mustaqilliq Maidoni",
+    "YearBuilt": 1979,
+    "OrdinalNumberInItsLine": 5,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 6,
+    "Name": "Paxtakor",
+    "YearBuilt": 1982,
+    "OrdinalNumberInItsLine": 6,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 7,
+    "Name": "Xalqlar Doʻstligi",
+    "YearBuilt": 1975,
+    "OrdinalNumberInItsLine": 7,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 8,
+    "Name": "Milliy Bog",
+    "YearBuilt": 1988,
+    "OrdinalNumberInItsLine": 8,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 9,
+    "Name": "Novza",
+    "YearBuilt": 1995,
+    "OrdinalNumberInItsLine": 9,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 10,
+    "Name": "Mirzo Ulugbek",
+    "YearBuilt": 1980,
+    "OrdinalNumberInItsLine": 10,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 11,
+    "Name": "Chilonzor",
+    "YearBuilt": 1977,
+    "OrdinalNumberInItsLine": 11,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 12,
+    "Name": "Olmazor",
+    "YearBuilt": 1987,
+    "OrdinalNumberInItsLine": 12,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 13,
+    "Name": "1-Bekat",
+    "YearBuilt": 1992,
+    "OrdinalNumberInItsLine": 13,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 14,
+    "Name": "2-Bekat",
+    "YearBuilt": 1978,
+    "OrdinalNumberInItsLine": 14,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 15,
+    "Name": "3-Bekat",
+    "YearBuilt": 1985,
+    "OrdinalNumberInItsLine": 15,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 16,
+    "Name": "4-Bekat",
+    "YearBuilt": 1998,
+    "OrdinalNumberInItsLine": 16,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 17,
+    "Name": "5-Bekat",
+    "YearBuilt": 1976,
+    "OrdinalNumberInItsLine": 17,
+    "LineName": "Chilonzor Line"
+  },
+  {
+    "Id": 18,
+    "Name": "Beruniy",
+    "YearBuilt": 1991,
+    "OrdinalNumberInItsLine": 1,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 19,
+    "Name": "Tinchlik",
+    "YearBuilt": 1983,
+    "OrdinalNumberInItsLine": 2,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 20,
+    "Name": "Chorsu",
+    "YearBuilt": 1974,
+    "OrdinalNumberInItsLine": 3,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 21,
+    "Name": "Gafur Gulom",
+    "YearBuilt": 1989,
+    "OrdinalNumberInItsLine": 4,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 22,
+    "Name": "Alisher Navoiy",
+    "YearBuilt": 1973,
+    "OrdinalNumberInItsLine": 5,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 23,
+    "Name": "Ozbekiston",
+    "YearBuilt": 1994,
+    "OrdinalNumberInItsLine": 6,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 24,
+    "Name": "Kosmonavtlar",
+    "YearBuilt": 1981,
+    "OrdinalNumberInItsLine": 7,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 25,
+    "Name": "Oybek Ming Orik",
+    "YearBuilt": 1972,
+    "OrdinalNumberInItsLine": 8,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 26,
+    "Name": "Toshkent",
+    "YearBuilt": 1997,
+    "OrdinalNumberInItsLine": 9,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 27,
+    "Name": "Mashinasozlar",
+    "YearBuilt": 1993,
+    "OrdinalNumberInItsLine": 10,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 28,
+    "Name": "Doʻstlik",
+    "YearBuilt": 1971,
+    "OrdinalNumberInItsLine": 11,
+    "LineName": "Oʻzbekiston Line"
+  },
+  {
+    "Id": 29,
+    "Name": "Turkiston",
+    "YearBuilt": 1996,
+    "OrdinalNumberInItsLine": 1,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 30,
+    "Name": "Yunusobod",
+    "YearBuilt": 1970,
+    "OrdinalNumberInItsLine": 2,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 31,
+    "Name": "Shahriston",
+    "YearBuilt": 1982,
+    "OrdinalNumberInItsLine": 3,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 32,
+    "Name": "Bodomzor",
+    "YearBuilt": 1999,
+    "OrdinalNumberInItsLine": 4,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 33,
+    "Name": "Minor",
+    "YearBuilt": 1975,
+    "OrdinalNumberInItsLine": 5,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 34,
+    "Name": "Abdulla Qodirii",
+    "YearBuilt": 1988,
+    "OrdinalNumberInItsLine": 6,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 35,
+    "Name": "Yunus Rajabiy",
+    "YearBuilt": 1979,
+    "OrdinalNumberInItsLine": 7,
+    "LineName": "Yunusobod Line"
+  },
+  {
+    "Id": 36,
+    "Name": "Ming Orik",
+    "YearBuilt": 1972,
+    "OrdinalNumberInItsLine": 8,
+    "LineName": "Yunusobod Line"
+  }
+]
